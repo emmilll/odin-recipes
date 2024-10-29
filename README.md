@@ -1,0 +1,1 @@
+Odin-recipes is HTML project, whith HTML basics, making a website with HTML only, and using GIT and GITHUB.
